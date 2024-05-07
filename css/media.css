@@ -1,0 +1,345 @@
+@media(max-width:992px){
+    .top-container {
+        width: 95%;
+    }
+    .banner-info {
+        padding-top: 50px;
+        padding-left: 40px;
+    }
+    .banner-info h3{
+        font-size: 46px;
+    }
+    .about-box {
+        padding-top: 20px;
+        padding-right: 70px;
+    }
+    .about-box h3{
+        font-size: 36px;
+    }
+    .about-box p{
+        margin-bottom: 50px;
+    }
+    .blog-container {
+        width: 95%;
+    }
+    .blog-text h3{
+        font-size: 36px;
+    }
+    .offer-img{
+        height: 400px;
+    }
+    .offer-img1{
+        height: 400px;
+    }
+    .service-container{
+        width: 95%;
+    }
+    .img-blog img {
+        left: 24%;
+        bottom: -23%;
+    }
+    #blog1{
+        padding-top: 18%;
+        padding-bottom: 80px;
+    }
+    .blog1-container{
+        width: 95%;
+    }
+    .sub-img img{
+        bottom: 46%;
+    }
+    #slider-left{
+        height: 300px;
+    }
+    #subscribe{
+        padding-bottom: 20px;
+    }
+    .subscribe-img img{
+        height: 300px;
+    }
+    .footer-container {
+        width: 95%;
+    }
+    .btn-4 {
+        margin-left: 63%;
+    }
+
+
+    /* ---- about page-----  */
+
+
+    .home{
+        height: 200px;
+    }
+    .about1-text h3{
+        font-size: 36px;
+    }
+    .about1-container{
+        width: 95%;
+    }
+    #chef{
+        padding-top: 16%;
+    }
+
+
+    /* ---- menu page ----  */
+
+    .menu-text h3{
+        font-size: 36px;
+    }
+    .menu-container{
+        width: 95%;
+    }
+
+
+    /* ---- contact page -----   */
+
+    .contact-text h3{
+        font-size: 36px;
+    }
+    .contact-container {
+        width: 95%;
+    }
+    .btn-5{
+        margin-left: 69%;
+    }
+    .footer-box h2 span{
+        right: 32%;
+    }
+
+
+    /* ----- Login page  ----  */
+
+    .log-container {
+        width: 90%;
+    }
+
+}
+
+
+
+@media(max-width:768px){
+    .about-box h5{
+        font-size: 20px;
+    }
+    .about-box h3 {
+        font-size: 34px;
+    }
+    .about-box {
+        padding-top: 10px;
+        padding-right: 50px;
+    }
+    .blog-text h5{
+        font-size: 20px;
+    }
+    .blog-text h3 {
+        font-size: 34px;
+    }
+    .service-text h5 {
+        font-size: 20px;
+    }
+    .service-text h3{
+        font-size: 34px;
+    }
+    .img-blog img {
+        left: 14%;
+        bottom: -68%;
+    }
+    #blog1 {
+        padding-top: 60%;
+    }
+    .subscribe-text{
+        max-width: 500px;
+    }
+    .footer-box h2 span{
+        right: 73%;
+    }
+    .btn-4 {
+        margin-left: 84%;
+    }
+
+
+    /* ---- about page -----  */
+
+    .about1-text h3 {
+        font-size: 34px;
+    }
+    .chef-text h3{
+        font-size: 34px;
+    }
+    #chef {
+        padding-top: 60%;
+    }
+
+
+
+
+    /* ----- contact page -----  */
+
+
+    .contact-text h3 {
+        font-size: 34px;
+    }
+    .btn-5 {
+        margin-left: 77%;
+    }
+
+
+    /* ----- Login page -----  */
+
+    .log-container {
+        width: 75%;
+    }
+}
+
+
+
+
+
+@media(max-width:480px){
+    #top{
+        height: 132px;
+    }
+    .navbar-brand{
+        font-size: 36px;
+    }
+    .banner-info h5 {
+        font-size: 18px;
+    }
+    .banner-info h3 {
+        font-size: 40px;
+    }
+    .slider{
+        margin-top: 20px;
+    }
+    .about-box h5 {
+        font-size: 18px;
+    }
+    .about-box h3 {
+        font-size: 32px;
+    }
+    .about-box p {
+        font-size: 15px;
+    }
+    .blog-text h5 {
+        font-size: 18px;
+    }
+    .blog-text h3 {
+        font-size: 32px;
+    }
+    .about-box{
+        padding-right: 0;
+    }
+    .img-blog img {
+        left: 1%;
+        bottom: -58%;
+    }
+    .blog1-text h5 {
+        font-size: 18px;
+    }
+    .blog1-text h3{
+        font-size: 32px;
+    }
+    #blog1 {
+        padding-top: 82%;
+    }
+    .service-text h5 {
+        font-size: 18px;
+    }
+    .service-text h3 {
+        font-size: 32px;
+    }
+    .service-box h4 a{
+        font-size: 26px;
+    }
+    .subscribe-text h3{
+        font-size: 32px;
+    }
+    .subscribe-img img {
+        height: 250px;
+    }
+    .subscribe-text {
+        max-width: 450px;
+    }
+    .btn-4 {
+        margin-left: 75%;
+    }
+
+
+    /* ---- about page -----  */
+
+    .about1-text h3 {
+        font-size: 32px;
+    }
+    #chef {
+        padding-top: 80%;
+    }
+    .chef-text h3{
+        font-size: 32px;
+    }
+
+
+    /* ----- menu page ----  */
+
+    .menu-text h3 {
+        font-size: 32px;
+    }
+    .footer-box h2 span {
+        right: 56%;
+    }
+
+
+    /* ----- contact page -----  */
+
+    .btn-5 {
+        margin-left: 64%;
+    }
+}
+
+
+
+
+
+@media(max-width:360px){
+    .banner-info {
+        padding-top: 30px;
+        padding-left: 20px;
+    }
+    .slider .owl-theme .owl-dots {
+        bottom: 4px;
+        left: 40%;
+    }
+    .img-blog img {
+        bottom: -64%;
+    }
+    #blog1 {
+        padding-top: 114%;
+    }
+
+
+    .btn-4 {
+        margin-left: 66%;
+    }
+
+
+
+    /* ---- about page -----  */
+
+    #chef {
+        padding-top: 118%;
+    }
+
+    /* ----- menu page -----  */
+
+    .footer-box h2 span {
+        right: 41%;
+    }
+
+
+
+    /* ----- contact page  -----  */
+
+    .btn-5 {
+        margin-left: 54%;
+    }
+}
